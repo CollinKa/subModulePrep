@@ -1,0 +1,3 @@
+[submodule "XMLgenerator"]
+	path = XMLgenerator
+	url = https://github.com/CollinKa/XMLgenerator.git
